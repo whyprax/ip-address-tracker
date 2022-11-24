@@ -6,11 +6,11 @@ export const InfoContainer = styled.div`
   align-items: center;
   gap: 16rem;
   position: absolute;
-  top: 200px;
+  top: 210px;
   left: 0;
   right: 0;
   background-color: #ffffff4d;
-  padding: 2rem;
+  padding: 1rem;
 `;
 
 export const InfoComponentContainer = styled.div`
